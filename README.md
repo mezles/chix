@@ -1,4 +1,4 @@
 chix
 ====
 
-chix
+Sample PHP CRUD

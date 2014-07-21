@@ -1,7 +1,7 @@
 <?php
 /** Absolute path to the site directory. */
 if ( !defined('ABSPATH') )
-	define('ABSPATH', dirname(__FILE__) . '/');
+  define('ABSPATH', dirname(__FILE__) . '/');
     
 /**
  * Get current working directory
@@ -32,7 +32,7 @@ function base_url($slug = "") {
   return sprintf(
     "%s://%s%s",
     isset($_SERVER['HTTPS']) && $_SERVER['HTTPS'] != 'off' ? 'https' : 'http',
-    $_SERVER['HTTP_HOST'],
+    $_SERVER['HTTP_HOST'] . '/chix',
     $curr_dir
   );
 }

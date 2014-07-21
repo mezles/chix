@@ -2,7 +2,7 @@
 
 $host = "localhost";
 $user = "root";
-$pass = "";
+$pass = "yKbAt8mcTGxcnUC";
 $db = "rando";
 
 //conection:

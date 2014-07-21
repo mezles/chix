@@ -25,7 +25,7 @@
     <div class="container-fluid">
       <div class="row">
         <div class="col-sm-12 main">
-          <h1 class="page-header">Mga Chix</h1>
+          <h1 class="page-header">Mga Chix sa Cebu</h1>
 
           <div class="row placeholders">
             <div class="col-xs-6 col-sm-3 placeholder">
